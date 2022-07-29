@@ -1,0 +1,21 @@
+{
+  "name": "storm-color-theme",
+  "displayName": "Storm Color Theme",
+  "description": "storm-color-theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Storm Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Storm Theme-color-theme.json"
+      }
+    ]
+  }
+}
