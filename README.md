@@ -1,5 +1,5 @@
 ## Storm Color Theme
-![![Version](https://vsmarketplacebadge.apphb.com/version/imStoorm.storm-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=imStoorm.storm-color-theme)
+![![Version](https://img.shields.io/badge/Visual%20Studio%20Marketplace-v0.0.1-brightgreen)](https://marketplace.visualstudio.com/items?itemName=imStoorm.storm-color-theme)
 
 
 ## Description
