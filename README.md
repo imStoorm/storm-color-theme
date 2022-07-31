@@ -9,3 +9,9 @@
 
 ## Settings
 * When installation completes, select **Storm Color Theme** as your color theme (Preferences → Workbench: Color Theme → **Storm Color Theme**)
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/106880242/182022539-24086d10-4b97-4773-af93-0dc42c343aba.png)
+
+## Changelog
+* See [CHANGELOG.md](https://github.com/imStoorm/storm-color-theme/edit/main/CHANGELOG.md)
