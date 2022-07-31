@@ -1,5 +1,5 @@
 ## Storm Color Theme
-![image](http://img.shields.io/static/v1?label=Visual Studio Marketplace&message=v1.0.0&color=GREEN&style=for-the-badge)
+![image](http://img.shields.io/static/v1?label=Visual+Studio+Marketplace&message=v1.0.0&color=GREEN&style=for-the-badge)
 
 
 ## Description
